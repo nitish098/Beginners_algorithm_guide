@@ -1,4 +1,4 @@
-
+//Algorithm
 /* C implementation QuickSort */
 #include<iostream>
 using namespace std; 
