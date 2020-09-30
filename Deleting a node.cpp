@@ -1,4 +1,6 @@
+PROGRAM OF DELETING OF NODE
 #include<bits/stdc++.h>
+
 
 using namespace std;
 
